@@ -4,14 +4,3 @@
 
 layout: home
 ---
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId            : '839514386418582',
-      autoLogAppEvents : true,
-      xfbml            : true,
-      version          : 'v6.0'
-    });
-  };
-</script>
-<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
